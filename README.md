@@ -1,7 +1,9 @@
-# Signal simulations
-Simulation vs Analytical calculation of functions from the signals knowledge domain.
+# Signal Simulations
 
-Files:
-- Report.pdf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The demonstration of analytical calculations and simulations of the functions.
-- Jupyter notebook  - The analytical calculations.
-- Java files &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The simulations.
+This project explores the comparison between simulation and analytical calculations of functions within the signals domain.
+
+## Files
+
+- **Report.pdf** - Demonstrates analytical calculations and simulations of the functions.
+- **Jupyter Notebook** - Contains the analytical calculations.
+- **Java Files** - Contains the simulation implementations.
